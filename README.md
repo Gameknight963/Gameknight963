@@ -20,12 +20,10 @@ I make Miside Zero mods with Melonloader. Here's some of the biggest ones:
 
  - [**Multiside**](https://github.com/Gameknight963/Multiside). Multiplayer through Photon
 
- - **Miside Zero Dialogue Override**. System of tools used to override Miside Zero's dialogue and add voiceovers.
-   - [Miside Zero Dialogue Override](https://github.com/Gameknight963/Miside-Zero-Dialogue-Override) to patch dialogue at runtime
-   - [MSZDialogueManager](https://github.com/Gameknight963/MSZDialogueManager) to create and edit .mszdlg files
-   - [MSZDialogueMapper](https://github.com/Gameknight963/MSZDialogueMapper) to dump the dialogue trees to a json file
- - [**Zerocaft**](https://github.com/Gameknight963/Zerocraft). Added minecraft blocks to the game.
+ - [**Miside Zero Dialogue Override**](https://github.com/Gameknight963/MZDO). System of tools used to override Miside Zero's dialogue and add voiceovers.
  - [**InventoryFramework**](https://github.com/Gameknight963/InventoryFramework) and [**InventoryUI**](https://github.com/Gameknight963/InventoryUI), to add inventory to games that don't have it. Should work with most games.
+ - [**mszak47**](https://github.com/Gameknight963/mszak47) Added guns, with a user-created gun system that doesn't require scripting
+ - [**Zerocraft**](https://github.com/Gameknight963/Zerocraft) Turned msz into Minecraft
 
 I also dabble in css themes and music production
 
