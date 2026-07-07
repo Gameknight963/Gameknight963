@@ -8,24 +8,7 @@ I'm also learning to use this one, but I'm not very good with it yet
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30" height="34" alt="C++">
 
 
-I make tools that I find useful such as
-
- - [NewFile](https://github.com/Gameknight963/NewFile) for my context menu (its in c++!)
-
- - [OrangeTweaker](https://github.com/Gameknight963/orangetweaker) to edit my context menu
-
- - [launcher.net](https://github.com/Gameknight963/launcher.NET) for helping me mod games without playing folder ninja
-
-I make Miside Zero mods with Melonloader. Here's some of the biggest ones:
-
- - [**Multiside**](https://github.com/Gameknight963/Multiside). Multiplayer through Photon
-
- - [**Miside Zero Dialogue Override**](https://github.com/Gameknight963/MZDO). System of tools used to override Miside Zero's dialogue and add voiceovers.
- - [**InventoryFramework**](https://github.com/Gameknight963/InventoryFramework) and [**InventoryUI**](https://github.com/Gameknight963/InventoryUI), to add inventory to games that don't have it. Should work with most games.
- - [**mszak47**](https://github.com/Gameknight963/mszak47) Added guns, with a user-created gun system that doesn't require scripting
- - [**Zerocraft**](https://github.com/Gameknight963/Zerocraft) Turned msz into Minecraft
-
-I also dabble in css themes and music production
+I make tools that I find useful and mod Unity games
 
 Contact me on Discord: @gameknight963
 
