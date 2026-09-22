@@ -12,8 +12,6 @@ Learning these languages (ranked by familiarity)
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1280px-Ruby_logo.svg.png" width=30 alt="Ruby">
 </p>
 
-> I'm unironically more familiar with x86-64 than python
-
 Want to learn
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width=30 alt="Java">
