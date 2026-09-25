@@ -1,4 +1,7 @@
 ## hello 👋 I'm gameknight
+
+![](https://komarev.com/ghpvc/?username=gameknight963&color=blueviolet)
+
 I primarily use this language
 
 <img src="https://www.compilenrun.com/assets/images/csharp_logo-221dcba91bfe189e98c562b90269b16f.png" width=30 height="34" alt="C#">
