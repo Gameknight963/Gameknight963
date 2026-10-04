@@ -12,6 +12,7 @@ Learning these languages (ranked by familiarity)
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width=30 alt="C++">
   <img src="https://i.imgur.com/86QnNIb.png" width="37" alt="ASM">
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width=30 alt="Python">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?utm_source=commons.wikimedia.org" width=30 alt="javascript">
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1280px-Ruby_logo.svg.png" width=30 alt="Ruby">
 </p>
 
@@ -20,6 +21,7 @@ Want to learn
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width=30 alt="Java">
   <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width=30 alt="Rust">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width=30 alt="Kotlin">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org" width=30 alt="typescript"> 
 </p>
 My tools/frameworks
 <p>
@@ -30,7 +32,9 @@ My tools/frameworks
 </p>
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Gameknight963&layout=compact&langs_count=5&theme=dark)
-<br>
+
+> If it says Grammatical Framework, it's not that, its my own programming language [G♭](https://github.com/Gameknight963/gflat), which
+> is probably never gonna be added to linguist
 
 I make tools that I find useful and mod Unity games
 
