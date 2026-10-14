@@ -1,6 +1,6 @@
 ## hello 👋 I'm gameknight
 
-![](https://komarev.com/ghpvc/?username=gameknight963&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=gameknight963&color=blueviolet)
 
 I primarily use this language
 
