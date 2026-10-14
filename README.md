@@ -4,7 +4,7 @@
 
 I primarily use this language
 
-<img src="https://www.compilenrun.com/assets/images/csharp_logo-221dcba91bfe189e98c562b90269b16f.png" width=30 height="34" alt="C#">
+<img src="https://i.imgur.com/MZdp9BX.png" width=30 height="34" alt="C#">
 
 Learning these languages (ranked by familiarity)
 <p>
