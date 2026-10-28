@@ -33,9 +33,6 @@ My tools/frameworks
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Gameknight963&layout=compact&langs_count=5&theme=dark)
 
-> If it says Grammatical Framework, it's not that, its my own programming language [G♭](https://github.com/Gameknight963/gflat), which
-> is probably never gonna be added to linguist
-
 I make tools that I find useful and mod Unity games
 
 Contact me on Discord: @gameknight963
